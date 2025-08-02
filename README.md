@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananya Bansal
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c language along with a bit of html and css on the side ...
+- 🌱 I’m currently learning Java along with CSS on the side ...
 - 😄 Pronouns: she/her 
 
 <!---
